@@ -5,7 +5,7 @@
 ## 🧠 Componentes
 - **Procesador**: AMD Ryzen 5 5500  
 - **Memoria RAM**: Corsair Vengeance DDR4 16 GB (2×8 GB) a 3200 MHz  
-- **Tarjeta gráfica**: ASUS ROG Strix GTX 1060 **6 GB**  
+- **Tarjeta gráfica**: ASUS ROG Strix GTX 1060 6 GB  
 - **Almacenamiento**: SSD NVMe de 256 GB  
 - **Fuente de alimentación**: Corsair TX 750W  
 - **Disipador CPU**: Aigo (de AliExpress)  
