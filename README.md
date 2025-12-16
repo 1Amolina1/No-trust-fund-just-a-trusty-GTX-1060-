@@ -10,7 +10,7 @@
 - **Fuente de alimentación**: Corsair TX 750W  
 - **Disipador CPU**: Aigo (de AliExpress)  
 - **Ventilador adicional**: Aigo (de AliExpress)  
-- **Caja**: Nox "Pecera" blanca  
+- **Caja**: Nox Xtreme Blanca 
 
 ## 🎮 Propósito principal
 Este equipo está pensado **sobre todo para jugar**.  
