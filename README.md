@@ -7,7 +7,7 @@
 - **Tarjeta gráfica**: ASUS ROG Strix GTX 1060 6 GB  
 - **Almacenamiento**: SSD NVMe de 256 GB  
 - **Fuente de alimentación**: Corsair TX 750W  
-- **Disipador CPU**: Aigo (de AliExpress)  
+- **Disipador CPU**: Aigo ICE 400SE (de AliExpress)  
 - **Ventilador adicional**: Aigo (de AliExpress)  
 - **Caja**: Nox Xtreme Blanca 
 
